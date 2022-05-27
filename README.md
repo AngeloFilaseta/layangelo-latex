@@ -43,6 +43,8 @@ Usage:
 ## License
 This template originates from [LaTeXTemplates](http://www.LaTeXTemplates.com)
 
+This template is licensed under the [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) license.
+
 #### Started from:
 __Lachaise Assignment__
 Original Authors:
