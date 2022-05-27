@@ -42,6 +42,7 @@ Usage:
 
 ## License
 This template originates from [LaTeXTemplates](http://www.LaTeXTemplates.com)
+
 #### Started from:
 __Lachaise Assignment__
 Original Authors:
@@ -52,3 +53,5 @@ Original Authors:
 Vel (vel@LaTeXTemplates.com)
 
 Changes from the original template are listed in the ```layout.tex``` file.
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAngeloFilaseta%2Flayangelo-latex.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAngeloFilaseta%2Flayangelo-latex?ref=badge_shield)
