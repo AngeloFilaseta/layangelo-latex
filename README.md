@@ -43,8 +43,6 @@ Usage:
 ## License
 This template originates from [LaTeXTemplates](http://www.LaTeXTemplates.com)
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAngeloFilaseta%2Flayangelo-latex.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAngeloFilaseta%2Flayangelo-latex?ref=badge_large)
-
 #### Started from:
 __Lachaise Assignment__
 Original Authors:
@@ -56,5 +54,4 @@ Vel (vel@LaTeXTemplates.com)
 
 Changes from the original template are listed in the ```layout.tex``` file.
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAngeloFilaseta%2Flayangelo-latex.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAngeloFilaseta%2Flayangelo-latex?ref=badge_shield)
