@@ -18,7 +18,7 @@ jobs:
       - name: Rename file
         run: mv main.pdf "${{ github.event.repository.name }}-${{ github.ref_name }}.pdf"
       - name: Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           files: ${{ github.event.repository.name }}-${{ github.ref_name }}.pdf
           token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
